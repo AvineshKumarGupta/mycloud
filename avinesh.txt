@@ -1,12 +1,12 @@
 Welcome to Avinesh Kumar Gupta
-<<<<<<< HEAD
 
 Barhi
+<<<<<<< HEAD
+=======
 
 
 6 June 2021
-=======
->>>>>>> parent of b9ab8f6 (Update avinesh.txt)
+>>>>>>> parent of 5f1b3f7 (Reverted back to previous version)
 
 
-Santosh Khare
+Santosh Khare 2
